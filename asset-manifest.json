@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/price-component-with-toggle/static/css/main.5f7b7a6d.css",
+    "main.js": "/price-component-with-toggle/static/js/main.dce3d640.js",
+    "static/media/bg-bottom.svg": "/price-component-with-toggle/static/media/bg-bottom.0ed1debdb05aee57e642.svg",
+    "static/media/bg-top.svg": "/price-component-with-toggle/static/media/bg-top.4980c1fd1180f71d5782.svg",
+    "index.html": "/price-component-with-toggle/index.html",
+    "main.5f7b7a6d.css.map": "/price-component-with-toggle/static/css/main.5f7b7a6d.css.map",
+    "main.dce3d640.js.map": "/price-component-with-toggle/static/js/main.dce3d640.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f7b7a6d.css",
+    "static/js/main.dce3d640.js"
+  ]
+}
